@@ -24,7 +24,10 @@ To use pyospackage_ycc in your code:
 
 ```python
 >>> import pyospackage_ycc
->>> pyospackage_ycc.hello_world()
+>>> pyospackage_ycc.add_numbers(1, 2)
+3
+>>> pyospackage_ycc.multiply_numbers(2, 3)
+6
 ```
 
 ## Copyright
